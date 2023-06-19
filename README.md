@@ -1,6 +1,5 @@
 # React Web App
-
-This repository contains a React web application that implements a messaging system with boards and channels.
+This repository contains a full-stack social application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. That implements a messaging system with boards and channels.
 
 # Features
 
@@ -12,9 +11,12 @@ This repository contains a React web application that implements a messaging sys
 
 
 # Installation
-1. Fork the project under your Github account.
-2. Clone your fork
-3. Run `npm install`
+1. Clone the repository.
+2. Install dependencies using `npm install` or `yarn install`.
+3. Set up environment variables using a `.env` file.
+4. Start the server using `npm start` or `yarn start`.
+5. Start the client development server using `npm run client` or `yarn run client`.
+6. Access the application in your browser at `http://localhost:3000`.
 
 The tests must be executable via `npm test`.
 
